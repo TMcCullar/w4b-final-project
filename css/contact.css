@@ -5,3 +5,31 @@ body {
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif
 }
+input {
+    width: 25%;
+    height: 30px;
+    padding: 5px;
+    box-sizing: border-box;
+    border: 2px solid rgb(131, 129, 129);
+    border-radius: 4px;
+    background-color: #f8f8f8;
+}
+::placeholder {
+    color:rgba(89, 90, 92, 0.856)
+}
+textarea {
+    width: 25%;
+    height: 150px;
+    padding: 7px;
+    box-sizing: border-box;
+    border: 2px solid rgb(131, 129, 129);
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+}
+input[type=submit] {
+    background-color: rgba(125, 126, 128, 0.534);
+    border: 2px solid rgb(131, 129, 129);
+    font-weight: bold;
+    color: white;
+}
