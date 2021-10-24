@@ -33,3 +33,6 @@ input[type=submit] {
     font-weight: bold;
     color: white;
 }
+input[type=submit]:hover {
+    background-color: steelblue;
+}
