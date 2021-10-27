@@ -11,10 +11,10 @@ body {
     border: 5px solid rgba(70, 77, 92, 0.3);
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(229, 233, 235);
+    color: rgba(238, 241, 241, 0.897);
     text-shadow: 2px 2px rgb(66, 63, 68);
     background-color: rgba(69, 83, 95, 0.4);
-    box-shadow: 3px 3px rgb(49, 49, 49);
+    box-shadow: 3px 3px rgba(49, 49, 49, 0.692);
 }
 .sticky {
     position: -webkit-sticky;
@@ -37,7 +37,7 @@ button {
 h1 {
     font-size: 55px;
 }
-h3, h4, h5, h6 {
+h3, h4, h5 {
     font-size: 20px;
 }
 header {
@@ -102,7 +102,7 @@ aside {
 }
 section {
     width: 50%;
-    height: 125px;
+    height: 270px;
     margin: 5px;
     margin-left: 10px;
     font-size: 60;
