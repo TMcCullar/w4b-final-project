@@ -37,7 +37,7 @@ button {
 h1 {
     font-size: 55px;
 }
-h3, h4, h5 {
+h3, h4 {
     font-size: 20px;
 }
 header {
@@ -125,4 +125,8 @@ footer {
 p {
     font-size: 16;
     font-family: cursive;
+}
+.map {
+    padding: 20px;
+    float: left;
 }
